@@ -29,8 +29,6 @@ Credit Card Fraud Detection/
 ├── 01_eda.ipynb              # Exploratory Data Analysis
 ├── 02_data_cleaning.ipynb    # Data Cleaning & Scaling
 ├── 03_model_building.ipynb   # Model Building & Evaluation
-├── utils.py                  # Reusable utility functions
-├── requirements.txt          # Python dependencies
 ├── README.md                 # This file
 └── data/
     ├── creditcard.csv          # Raw dataset (50,492 rows, 31 cols)
