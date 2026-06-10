@@ -1,4 +1,4 @@
-# Credit Card Fraud Detection
+# Credit Card Fraud Detection 
 
 A binary classification project that detects fraudulent **credit card transactions** from anonymised transaction features under extreme class imbalance.
 
